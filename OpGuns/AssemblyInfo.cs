@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 // make sure to add your own references
 [assembly: AssemblyTitle("OpGuns")]
-[assembly: AssemblyDescription("Op guns i guesws")]
+[assembly: AssemblyDescription("Op guns i guesss")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("OpGuns")]
